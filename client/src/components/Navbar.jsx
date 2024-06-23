@@ -21,7 +21,8 @@ const Container = styled.div`
 const Navbar = () => {
   return (
     <Container>
-      Navbar
+      genAI
+      <Button text= ""
     </Container>
   );
 };
